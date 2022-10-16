@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="xiaomi-sm6375-devs/android_device_xiaomi_sm6375-common" path="device/xiaomi/sm6375-common" remote="github" revision="lineage-19.1"/>
+  <project name="xiaomi-sm6375-devs/android_device_xiaomi_veux" path="device/xiaomi/veux" remote="github" revision="lineage-19.1"/>
+  <project name="xiaomi-sm6375-devs/android_device_xiaomi_veux-kernel" path="device/xiaomi/veux-kernel" remote="github" revision="lineage-19.1"/>
+  <project name="xiaomi-sm6375-devs/android_kernel_xiaomi_sm6375" path="kernel/xiaomi/sm6375" remote="github" revision="lineage-19.1"/>
+  <project name="xiaomi-sm6375-devs/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-19.1"/>
+  <project name="POCO-X4-Pro-5G-Development/android_vendor_xiaomi_veux" path="vendor/xiaomi/veux" remote="github" revision="master"/>
+  <project name="POCO-X4-Pro-5G-Development/android_vendor_xiaomi_sm6375-common" path="vendor/xiaomi/sm6375-common" remote="github" revision="master"/>
+
+  <!--
+  <remove-project path="hardware/qcom-caf/sm8350/display" name="LineageOS/android_hardware_qcom_display" />
+  <project name="xiaomi-sm6375-devs/android_hardware_qcom-caf_sm8350_display" path="hardware/qcom-caf/sm8350/display" />
+  -->
+</manifest>
